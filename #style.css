@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#nav {
+    background-color: blanchedalmond;
+}
+
+.navbar {
+    list-style-type: none;
+}
+
+.nav-list {
+    display: inline;
+    font-size: 30px;
+}
+
+.nav-item {
+    color: blue;
+    text-decoration: none;
+    padding-right: 16px;
+    margin: 6%;
+    transition: 1s;
+}
+
+.nav-item:hover {
+    color: aqua;
+}
+
+#heading {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    background-color: rgb(175, 174, 202);
+}
+
+#mar {
+    color: black;
+    font-size: 30px;
+}
+
+.img-mar {
+    border: 5px solid black;
+}
+
+#sec {
+    width: 25%;
+}
